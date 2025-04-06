@@ -17,7 +17,7 @@ This project contains a Power BI dashboard designed to analyze customer churn da
 
 ## File Included
 
-- `Customer_Churn.pbix` — Power BI dashboard file
+- Customer_Churn.pbix — Power BI dashboard file
 
 ## Getting Started
 
